@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Basic T-shirt",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.gqXsIEHIwMc-isqVnfDetQHaIb&pid=Api&P=0&h=180",
+      "description": "Simple cotton t-shirt",
+      "price": 19.99,
+      "category": "T-shirts",
+      "size": "M",
+      "color": "White",
+      "brand": "Nike",
+      "popularity": 4
+    },
+    {
+      "id": "2",
+      "name": "Skinny Jeans",
+      "image": "https://m.media-amazon.com/images/I/61++-21k3XL.AC_SX569.jpg",
+      "description": "Stretch denim jeans",
+      "price": 49.99,
+      "category": "Jeans",
+      "size": "L",
+      "color": "Black",
+      "brand": "Levi's",
+      "popularity": 5
+    },
+    {
+      "id": "3",
+      "name": "Summer Dress",
+      "image": "https://m.media-amazon.com/images/I/61znqqUkD+L.AC_SX569.jpg",
+      "description": "Lightweight floral dress",
+      "price": 39.99,
+      "category": "Dresses",
+      "size": "S",
+      "color": "Blue",
+      "brand": "Zara",
+      "popularity": 4
+    },
+    {
+      "id": "4",
+      "name": "Knit Sweater",
+      "image": "https://m.media-amazon.com/images/I/51fuigp7ExL.AC_SX522.jpg",
+      "description": "Cozy wool blend sweater",
+      "price": 59.99,
+      "category": "Sweaters",
+      "size": "L",
+      "color": "Red",
+      "brand": "H&M",
+      "popularity": 3
+    },
+    {
+      "id": "5",
+      "name": "Leather Jacket",
+      "image": "https://m.media-amazon.com/images/I/71oSp-YCy7L.AC_SX679.jpg",
+      "description": "Classic biker jacket",
+      "price": 129.99,
+      "category": "Jackets",
+      "size": "XL",
+      "color": "Black",
+      "brand": "Adidas",
+      "popularity": 5
+    },
+    {
+      "id": "6",
+      "name": "Graphic T-shirt",
+      "image": "https://m.media-amazon.com/images/I/618R3c3+skL.AC_SX569.jpg",
+      "description": "Printed cotton t-shirt",
+      "price": 24.99,
+      "category": "T-shirts",
+      "size": "L",
+      "color": "Green",
+      "brand": "Nike",
+      "popularity": 4
+    },
+    {
+      "id": "7",
+      "name": "Ripped Jeans",
+      "image": "https://m.media-amazon.com/images/I/61kt5XuADSS.AC_SX569.jpg",
+      "description": "Distressed denim jeans",
+      "price": 59.99,
+      "category": "Jeans",
+      "size": "XXL",
+      "color": "Blue",
+      "brand": "Levi's",
+      "popularity": 5
+    },
+    {
+      "id": "8",
+      "name": "Evening Gown",
+      "image": "https://m.media-amazon.com/images/I/61s0hKrgDaL.AC_SY741.jpg",
+      "description": "Formal evening gown",
+      "price": 199.99,
+      "category": "Dresses",
+      "size": "M",
+      "color": "Red",
+      "brand": "Zara",
+      "popularity": 5
+    },
+    {
+      "id": "9",
+      "name": "Striped Sweater",
+      "image": "https://m.media-amazon.com/images/I/61B5jkDIsFL.AC_SY550.jpg",
+      "description": "Striped wool sweater",
+      "price": 49.99,
+      "category": "Sweaters",
+      "size": "M",
+      "color": "White",
+      "brand": "H&M",
+      "popularity": 4
+    },
+    {
+      "id": "10",
+      "name": "Bomber Jacket",
+      "image": "https://m.media-amazon.com/images/I/71OpSV9MgIL.AC_SY741.jpg",
+      "description": "Casual bomber jacket",
+      "price": 79.99,
+      "category": "Jackets",
+      "size": "L",
+      "color": "Green",
+      "brand": "Adidas",
+      "popularity": 4
+    },
+    {
+      "id": "11",
+      "name": "V-neck T-shirt",
+      "image": "https://m.media-amazon.com/images/I/713uefcZOrL.AC_SY550.jpg",
+      "description": "Cotton v-neck t-shirt",
+      "price": 22.99,
+      "category": "T-shirts",
+      "size": "S",
+      "color": "Black",
+      "brand": "Nike",
+      "popularity": 3
+    },
+    {
+      "id": "12",
+      "name": "Bootcut Jeans",
+      "image": "https://m.media-amazon.com/images/I/71z8mmC9C0L.AC_SY741.jpg",
+      "description": "Bootcut denim jeans",
+      "price": 69.99,
+      "category": "Jeans",
+      "size": "XL",
+      "color": "Blue",
+      "brand": "Levi's",
+      "popularity": 4
+    },
+    {
+      "id": "13",
+      "name": "Maxi Dress",
+      "image": "https://m.media-amazon.com/images/I/619cFatZ2RL.AC_SX679.jpg",
+      "description": "Long floral maxi dress",
+      "price": 79.99,
+      "category": "Dresses",
+      "size": "L",
+      "color": "Green",
+      "brand": "Zara",
+      "popularity": 4
+    },
+    {
+      "id": "14",
+      "name": "Crewneck Sweater",
+      "image": "https://m.media-amazon.com/images/I/61yUOiGN-9L.AC_SY741.jpg",
+      "description": "Classic crewneck sweater",
+      "price": 39.99,
+      "category": "Sweaters",
+      "size": "XL",
+      "color": "Blue",
+      "brand": "H&M",
+      "popularity": 3
+    },
+    {
+      "id": "15",
+      "name": "Denim Jacket",
+      "image": "https://m.media-amazon.com/images/I/61d6ErMqVCL.AC_SX569.jpg",
+      "description": "Traditional denim jacket",
+      "price": 89.99,
+      "category": "Jackets",
+      "size": "M",
+      "color": "Black",
+      "brand": "Adidas",
+      "popularity": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": "0",
+      "name": "All"
+    },
+    {
+      "id": "1",
+      "name": "T-shirts"
+    },
+    {
+      "id": "2",
+      "name": "Jeans"
+    },
+    {
+      "id": "3",
+      "name": "Dresses"
+    },
+    {
+      "id": "4",
+      "name": "Sweaters"
+    },
+    {
+      "id": "5",
+      "name": "Jackets"
+    }
+  ],
+  "colors": [
+    {
+      "id": "0",
+      "name": "All"
+    },
+    {
+      "id": "1",
+      "name": "Black"
+    },
+    {
+      "id": "2",
+      "name": "White"
+    },
+    {
+      "id": "3",
+      "name": "Blue"
+    },
+    {
+      "id": "4",
+      "name": "Red"
+    },
+    {
+      "id": "5",
+      "name": "Green"
+    }
+  ],
+  "brands": [
+    {
+      "id": "0",
+      "name": "All"
+    },
+    {
+      "id": "1",
+      "name": "Nike"
+    },
+    {
+      "id": "2",
+      "name": "Adidas"
+    },
+    {
+      "id": "3",
+      "name": "Zara"
+    },
+    {
+      "id": "4",
+      "name": "H&M"
+    },
+    {
+      "id": "5",
+      "name": "Levi's"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user@1.com",
+      "password": "passme"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "email": "user@2.com",
+      "password": "passme"
+    },
+    {
+      "id": "566c",
+      "name": "Raunak",
+      "email": "raunak@gmail.com",
+      "password": "passraunak"
+    },
+    {
+      "id": "5cc7",
+      "name": "Raunak",
+      "email": "1@r.com",
+      "password": "r"
+    }
+  ]
+}
